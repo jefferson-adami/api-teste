@@ -26,7 +26,7 @@ public class TesteControler {
     @GetMapping("fetch_all")
     public String fetchAllResponse() {
 
-        return "Teste fetch all!";
+        return "Teste fetch all!!";
     }
 
     @PostMapping(path = "/incluir",
