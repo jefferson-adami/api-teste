@@ -1,0 +1,12 @@
+br/com/jca/Enum/ProdutoEnum.class
+br/com/jca/services/UuidService.class
+br/com/jca/request/EmployeesRequest.class
+br/com/jca/services/MessageProducer.class
+br/com/jca/repository/EmployeesRepository.class
+br/com/jca/controller/TesteControler.class
+br/com/jca/config/KafkaProducerConfig.class
+br/com/jca/response/EmployeeResponse.class
+br/com/jca/response/UuidResponse.class
+br/com/jca/services/EmployeeService.class
+br/com/jca/StartApplication.class
+br/com/jca/entity/EmployeesEntity.class
